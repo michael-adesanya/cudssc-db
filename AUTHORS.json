@@ -1,0 +1,21 @@
+{
+  "authors": [
+    {
+      "name": "Michael Adesanya",
+      "family": "Adesanya",
+      "given": "Michael",
+      "orcid": "0009-0007-1504-0231",
+      "email": "adesany3@msu.edu",
+      "affiliation": "Independent Researcher",
+      "roles": [
+        "Conceptualization",
+        "Methodology",
+        "Validation",
+        "Data curation",
+        "Writing - original draft"
+      ],
+      "corresponding": true
+    }
+  ],
+  "collaborators": []
+}

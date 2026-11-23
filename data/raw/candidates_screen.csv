@@ -1,0 +1,45 @@
+doi,year,screen_status,note
+10.1039/c6ra25676g,2017,likely,Cu(dmby)2 redox shuttle; title screen only
+10.3390/inorganics6020053,2018,likely,Cu complexes with tetradentate ligands
+10.1021/acs.jpcc.9b11778,2020,likely,Cu mediator with indoline dyes
+10.1016/j.electacta.2024.144221,2024,likely,SWCNT with Cu electrolyte; stability
+10.1021/acsaem.3c02067,2023,likely,Cu electrolyte; ambient light; check 1-sun data exists
+10.1021/acsaem.1c02789,2022,likely,aqueous Cu(I/II); ambient light; check 1-sun data exists
+10.1021/acssuschemeng.4c00909,2024,likely,aqueous Cu DSSC; stability
+10.1021/acssuschemeng.4c07717,2025,likely,quasi-solid Cu electrolyte; check 1-sun data exists
+10.1038/s41467-021-21945-3,2021,likely,Voc 1.24 V Cu(II/I) electrolyte
+10.3390/en16196913,2023,likely,dye coverage with Cu electrolyte
+10.1039/c6ra06546e,2016,likely,quasi-solid Cu electrolyte nanocellulose
+10.1021/acs.energyfuels.4c06413,2025,likely,Retro Cell single-component; author's own paper; flag
+10.1021/acsaem.6c01356,2026,likely,Cu-mediated DSSC indoor light; check 1-sun data exists
+10.1016/j.jpowsour.2025.237019,2025,likely,MXene-modified Cu electrolytes
+10.1038/ncomms15390,2017,exclude_scope_v1,solid-state DSC with Cu(II/I) as hole transport material not liquid mediator; best 1-sun device Voc 1.08 V Jsc 13.87 FF 0.733 PCE 11.0 % (web text); candidate for a solid-state table in v2; CC BY 4.0
+10.1039/c9dt01448a,2019,included,Cu dye D1 with Cu(I/II) phenanthroline mediator; PDF read; CC-BY 3.0
+10.1021/acs.jpcc.5c03857,2025,included,[Cu(tmby)2] electrolyte with XY1b and L1 dyes; PDF read; CC-BY 4.0
+10.1002/sstr.202400236,2024,check,anthracene dyes sun and indoor; Cu electrolyte not confirmed
+10.3390/en14020407,2021,included,[Cu(tmby)2] with Y123; PDF read; thin non-optimized TiO2
+10.1002/chem.202201726,2022,check,adamantyl dyes; Cu electrolyte not confirmed
+10.1016/j.carbon.2026.121407,2026,included,quasi-solid gel with Cu(dmp)2 mediator; PDF read
+10.1021/acs.inorgchem.4c01046,2024,hold_si_needed,Cu(PY5) mediator with Y123; Voc FF PCE only in Figure 4a and SI
+10.3390/molecules25071528,2020,exclude_cu_dye,Cu(I) sensitizer not mediator
+10.3390/ijms21051735,2020,exclude_cu_dye,Cu(I) sensitizer not mediator
+10.3390/inorganics6020040,2018,exclude_cu_dye,Cu(I) sensitizer not mediator
+10.3390/inorganics6020057,2018,exclude_cu_dye,Cu(I) sensitizer not mediator
+10.1016/j.dyepig.2016.07.023,2016,exclude_cu_dye,Cu(I) sensitizer not mediator
+10.1039/c6dt00166a,2016,exclude_cu_dye,Cu(I) sensitizer not mediator
+10.1039/c5ra12296a,2015,exclude_cu_dye,Cu(I) sensitizer not mediator
+10.1039/c6ta04879j,2016,exclude_cu_dye,Cu(I) sensitizer not mediator
+10.3390/molecules26010194,2021,exclude_review,review
+10.3390/inorganics7030030,2019,exclude_review,review
+10.3390/molecules29010006,2023,exclude_review,review
+10.1016/j.rechem.2026.103673,2026,exclude_review,review
+10.1021/acsaem.5c00624,2025,exclude_review,review
+10.24294/can026160008,2026,exclude_review,review
+10.3390/nano16130830,2026,exclude_review,review
+10.3390/en13092198,2020,exclude_review,review
+10.1039/d1sc06828h,2022,exclude_review,review
+10.1039/c5cs00215j,2015,exclude_review,review
+10.3390/inorganics10090137,2022,exclude_review,review
+10.21203/rs.3.rs-8037166/v1,2025,exclude_theory,computational preprint; no devices
+10.21203/rs.3.rs-7759011/v1,2025,exclude_theory,computational preprint; no devices
+10.3390/app11093795,2021,exclude_offtopic,PEDOT counter electrode

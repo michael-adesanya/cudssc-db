@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, and cite the original papers for any record you use."
+type: dataset
+title: "CuDSSC-DB: A Curated Dataset of Copper Redox-Mediator Dye-Sensitized Solar Cell Performance"
+version: "1.0.0"
+date-released: "2026-11-22"
+authors:
+  - family-names: "Adesanya"
+    given-names: "Michael"
+    orcid: "https://orcid.org/0009-0007-1504-0231"
+    affiliation: "Independent Researcher"
+license: CC-BY-4.0
+repository-code: "https://github.com/michael-adesanya/cudssc-db"
+keywords:
+  - "dye-sensitized solar cells"
+  - "copper redox mediator"
+  - "photovoltaics"
+  - "curated dataset"
+  - "benchmark"

@@ -1,0 +1,23 @@
+{
+  "records_total": 18,
+  "records_included": 16,
+  "records_held_si_needed": 2,
+  "pce_min_pct": 0.045,
+  "pce_min_doi": "10.1021/acs.energyfuels.4c06413",
+  "pce_max_pct": 13.5,
+  "pce_max_doi": "10.1038/s41467-021-21945-3",
+  "pce_median_pct": 5.92,
+  "records_with_all_four_parameters": 14,
+  "years": {
+    "2017": 1,
+    "2018": 1,
+    "2019": 1,
+    "2020": 1,
+    "2021": 2,
+    "2022": 1,
+    "2023": 1,
+    "2024": 2,
+    "2025": 4,
+    "2026": 2
+  }
+}

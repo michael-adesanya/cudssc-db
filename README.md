@@ -43,4 +43,5 @@ See `docs/LIMITATIONS.md` before using or citing anything here.
 
 ## Citation
 
-See `CITATION.cff`. The DOI is assigned by Zenodo when v1.0.0 is released and is added to the Zenodo record and this repository's release page.
+See CITATION.cff. DOI: https://doi.org/10.5281/zenodo.24451993
+
